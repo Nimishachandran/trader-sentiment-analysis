@@ -1,6 +1,6 @@
 # trader-sentiment-analysis
 Comprehensive analysis of cryptocurrency trader behavior and market sentiment on Hyperliquid platform.
-# 📊 Trader Behavior & Market Sentiment Analysis
+#  Trader Behavior & Market Sentiment Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5+-green.svg)](https://pandas.pydata.org/)
@@ -8,23 +8,23 @@ Comprehensive analysis of cryptocurrency trader behavior and market sentiment on
 
 > **Comprehensive analysis of cryptocurrency trader behavior on Hyperliquid platform in relation to Bitcoin Fear & Greed Index**
 
-**Assignment for:** Junior Data Scientist Position - Bajarangs & PrimeTrade.ai
+**Assignment for:** Junior Data Scientist Position - PrimeTrade.ai
 
 ---
 
-## 🎯 Executive Summary
+##  Executive Summary
 
 This project analyzes **211,218 trades** from **32 traders** to uncover the relationship between market sentiment and trading performance. The analysis reveals critical insights about directional bias, sentiment-dependent win rates, and trader profitability patterns.
 
 ### Key Findings:
-- 🎯 **SELL positions outperform BUY by 2x** (54.5% vs 27.4% win rate)
-- 📈 **90.6% of traders are profitable** (29 out of 32)
-- 📊 **Win rates are statistically dependent on sentiment** (p<0.001)
-- 💰 **Average PnL varies by sentiment:** Greed ($53.88) vs Fear ($49.21)
+-  **SELL positions outperform BUY by 2x** (54.5% vs 27.4% win rate)
+-  **90.6% of traders are profitable** (29 out of 32)
+-  **Win rates are statistically dependent on sentiment** (p<0.001)
+-  **Average PnL varies by sentiment:** Greed ($53.88) vs Fear ($49.21)
 
 ---
 
-## 📈 Featured Visualizations
+##  Featured Visualizations
 
 ### 1. Buy vs Sell Performance (Most Critical Finding)
 
@@ -50,7 +50,7 @@ This project analyzes **211,218 trades** from **32 traders** to uncover the rela
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 ### Objective
 Explore the relationship between trader performance on Hyperliquid and market sentiment (Fear/Greed Index) to uncover hidden patterns and deliver actionable insights for smarter trading strategies.
@@ -67,7 +67,7 @@ Explore the relationship between trader performance on Hyperliquid and market se
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. Data Processing
 - Merged trader transactions with daily sentiment data by date
@@ -92,9 +92,9 @@ Explore the relationship between trader performance on Hyperliquid and market se
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
-### Finding #1: Directional Bias is Critical ⭐
+### Finding #1: Directional Bias is Critical 
 **SELL positions significantly outperform BUY positions:**
 - SELL Win Rate: 54.5% (Fear: 56.6%, Greed: 51.4%)
 - BUY Win Rate: 27.4% (Fear: 24.7%, Greed: 31.5%)
@@ -117,7 +117,7 @@ Explore the relationship between trader performance on Hyperliquid and market se
 
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 ### 1. Implement Directional Bias Strategy (CRITICAL)
 **Priority:** HIGH  
@@ -142,7 +142,7 @@ Explore the relationship between trader performance on Hyperliquid and market se
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.8+** - Core programming language
 - **Pandas** - Data manipulation and analysis
@@ -153,7 +153,7 @@ Explore the relationship between trader performance on Hyperliquid and market se
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 ```bash

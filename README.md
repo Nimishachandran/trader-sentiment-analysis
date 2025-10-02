@@ -28,7 +28,7 @@ This project analyzes **211,218 trades** from **32 traders** to uncover the rela
 
 ### 1. Buy vs Sell Performance (Most Critical Finding)
 
-<img src="visualizations/03_buy_sell_analysis.png" width="800">
+<img src="images/03_buy_sell_analysis.png" width="800">
 
 **Insight:** SELL orders demonstrate a **2x performance advantage** across all market sentiments, representing an immediate opportunity for strategy optimization.
 
@@ -36,7 +36,7 @@ This project analyzes **211,218 trades** from **32 traders** to uncover the rela
 
 ### 2. Performance by Market Sentiment
 
-<img src="visualizations/02_sentiment_performance.png" width="800">
+<img src="images/02_sentiment_performance.png" width="800">
 
 **Insight:** While Greed periods show slightly higher PnL, the difference is not statistically significant (p=0.323). Directional bias is a stronger predictor than sentiment.
 
@@ -44,7 +44,7 @@ This project analyzes **211,218 trades** from **32 traders** to uncover the rela
 
 ### 3. Trader Profiling
 
-<img src="visualizations/04_trader_profiling.png" width="800">
+<img src="images/04_trader_profiling.png" width="800">
 
 **Insight:** Exceptional **90.6% profitability rate** indicates strong platform performance, with top trader achieving $2.14M total PnL.
 
